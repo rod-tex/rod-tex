@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**rod-tex/rod-tex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on career transition: from brazilian Civil Registry Officer of Individuals to european computer scientist
+- 🌱 I’m currently learning:
+  - Web development: HTML, CSS3, JavaScript, PHP
+  - DevOps: Linux, Docker, Kubernetes
+  - Data scienc: R, Python
+  - Agile: Scrum, Kaban, and a bunch of cool stuff!
+- 😄 Pronouns: he/his
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/rod-tex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rod-tex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-tex&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
